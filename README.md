@@ -125,7 +125,7 @@ Nischith Kashyap S
 
 📬 Email
 
-💼 LinkedIn
+💼 LinkedIn 
 
 💻 GitHub
 
@@ -137,5 +137,4 @@ If you like this project, please ⭐ star the repository — it helps a lot!
 Pull requests, feature ideas, and improvements are always welcome 🙌
 
 🧠 “Monitor smart. Optimize smarter.”
-— Nischith Kashyap S
-
+— Nischith Kashyap 
