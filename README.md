@@ -117,7 +117,8 @@ Uptime: 0d 5h 42m
 
 🧰 Export performance logs
 
-🧑‍💻 Author
+
+##🧑‍💻 Author
 
 Nischith Kashyap S
 🎯 Software Engineer | DevOps Engineer | Mechanical Innovator
@@ -137,3 +138,4 @@ Pull requests, feature ideas, and improvements are always welcome 🙌
 
 🧠 “Monitor smart. Optimize smarter.”
 — Nischith Kashyap S
+
