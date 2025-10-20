@@ -58,3 +58,82 @@ It combines **multi-threaded performance monitoring**, **real-time matplotlib gr
 ```bash
 git clone https://github.com/nischithkashyap98-code/SystemPulse.git
 cd SystemPulse
+
+2️⃣ Set up a virtual environment
+
+Windows:
+
+python -m venv venv
+venv\Scripts\activate
+
+
+macOS / Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+3️⃣ Install dependencies
+pip install -r requirements.txt
+
+4️⃣ Run the app
+python system_pulse.py
+
+
+💡 Optional (no console window):
+
+pythonw system_pulse.py
+
+💫 Demo
+Dark Mode	Real-Time Graphs
+
+	
+🌌 Project Structure
+SystemPulse/
+│
+├── system_pulse.py       # Main application
+├── requirements.txt      # Dependencies
+├── README.md             # Documentation
+├── .gitignore            # Ignored files
+└── assets/
+    ├── banner.png
+    ├── demo.png
+    └── demo_light.png
+
+📊 Sample Output
+System Pulse ⚡
+CPU: 45% | RAM: 63% | Disk: 72%
+Network: 120 KB/s | Battery: 82% (Charging)
+Uptime: 0d 5h 42m
+
+🧩 Future Enhancements
+
+📈 Gradient line charts
+
+🌗 Dark/Light theme toggle
+
+🔔 High CPU temperature alerts
+
+🧠 ML-based anomaly prediction
+
+🧰 Export performance logs
+
+🧑‍💻 Author
+
+Nischith Kashyap S
+🎯 Software Engineer | DevOps Engineer | Mechanical Innovator
+
+📬 Email
+
+💼 LinkedIn
+
+💻 GitHub
+
+🌐 Portfolio
+
+💬 Support & Feedback
+
+If you like this project, please ⭐ star the repository — it helps a lot!
+Pull requests, feature ideas, and improvements are always welcome 🙌
+
+🧠 “Monitor smart. Optimize smarter.”
+— Nischith Kashyap S
